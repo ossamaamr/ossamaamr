@@ -1,16 +1,23 @@
-## Hi there 👋
+# أهلاً بك، أنا أسامة السروجي 👋
 
-<!--
-**ossamaamr/ossamaamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+أنا مبرمج مهتم بتطوير الويب وبناء أدوات الأتمتة. أحب كتابة الكود وتجربة التقنيات الجديدة لتسهيل العمل وبناء مشاريع مفيدة.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ التقنيات التي أستخدمها:
+
+* **تطوير الويب:** Next.js, React, Tailwind CSS
+* **قواعد البيانات والخلفية:** Node.js, Prisma ORM
+* **الأتمتة والسكربتات:** لغة Python (مثل بوتات التليجرام)
+
+---
+
+### 🚀 مشاريع أعمل عليها حالياً:
+
+* **CasEngine:** نظام لإدارة المكاتب القانونية وتنظيم قواعد البيانات باستخدام Prisma.
+* **موقع السروجي:** تطبيق ويب شخصي مستضاف على Vercel.
+* **أدوات أتمتة:** سكربتات وبوتات متنوعة مكتوبة ببايثون لتسهيل بعض المهام اليومية.
+
+---
+
+💬 يمكنك إلقاء نظرة على مشاريعي بالأسفل، ويسعدني دائماً تبادل الخبرات البرمجية!
